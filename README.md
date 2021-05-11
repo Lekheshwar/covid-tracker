@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Covid-Tracker  
+### [Live Demo](https://covid-tracker-lsh.netlify.app/)
+
+----
+
+![Screenshot (16)](https://user-images.githubusercontent.com/66664839/117807038-b9ebf380-b278-11eb-86b7-8c70e0b76fd7.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
